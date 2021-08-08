@@ -4,6 +4,7 @@ Created on 2021.08.08
 @functions: django学习
 
 """
+import django
 import traceback
 
 
