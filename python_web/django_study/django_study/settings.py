@@ -51,7 +51,6 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'django_study.urls'
 
-print(f'1111111 {os.path.dirname(__file__)}')
 TEMPLATE_DIRS = [os.path.join(os.path.dirname(__file__), 'templates').replace('\\', '/')]
 
 TEMPLATES = [
